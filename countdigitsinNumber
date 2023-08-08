@@ -1,3 +1,5 @@
+//How do u count the number of digits in any given number?
+
 public class count {
     public static void main(String[] args) {
         int target = 456;
@@ -15,5 +17,5 @@ public class count {
     }
 }
 
-//How do u count the number of digits in any given number?
+
 //this will return 3.
