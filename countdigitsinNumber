@@ -1,4 +1,4 @@
-public class q1295 {
+public class count {
     public static void main(String[] args) {
         int target = 456;
         int ans = count(target);
