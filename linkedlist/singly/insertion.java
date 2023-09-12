@@ -1,7 +1,6 @@
 package com.rafay;
 
 
-//linked list without its method
 public class LL {
 
     // it has a head and tail nodes
